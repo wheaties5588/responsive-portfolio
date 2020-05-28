@@ -7,6 +7,12 @@ main {
     background-color: #fdfdfd;
     box-shadow: #44427d 2px 2px 2px;
 }
+
+h1 {
+    padding: 5px 0px 15px 0px;
+    margin-bottom: 25px;
+    border-bottom: 2px solid black
+}
 .navbar-expand-md .navbar-nav, .navbar-nav {
     margin-left: auto;
 }
