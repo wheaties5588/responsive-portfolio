@@ -1,4 +1,31 @@
-
+body {
+    background-color: #f4ffff;
+}
+main {
+    margin: 4% auto;
+    padding: 25px;
+    background-color: #fdfdfd;
+    box-shadow: #44427d 2px 2px 2px;
+}
 .navbar-expand-md .navbar-nav, .navbar-nav {
     margin-left: auto;
+}
+
+.footer-head {
+    margin: auto auto 10px auto;
+    font-size: 16px;
+    line-height: 18px;
+    text-decoration: underline;
+} 
+
+.footer-head:hover {
+    text-decoration: underline;
+} 
+
+.white-text {
+    color: #fff;
+}
+
+.footer-p {
+    margin: auto;
 }
