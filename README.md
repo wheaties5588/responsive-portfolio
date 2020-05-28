@@ -29,7 +29,7 @@ CSS - Bootstrap
 ## Contribution Guidlines 
 ​
 Direct link to site:
-(Post the live link to the site here.)
+https://wheaties5588.github.io/responsive-portfolio-GW-HW2/
 ​
 ### License
 ​
